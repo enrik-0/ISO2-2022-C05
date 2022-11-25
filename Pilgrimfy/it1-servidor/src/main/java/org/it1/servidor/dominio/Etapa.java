@@ -17,6 +17,10 @@ public class Etapa {
 	 */
 	private int _estado;
 	public Camino _unnamed_Camino_;
+	
+	public void verEtapa(Etapa aEtapa) {
+		throw new UnsupportedOperationException();
+	}
 
 	public String getOrigen() {
 		return this._origen;
