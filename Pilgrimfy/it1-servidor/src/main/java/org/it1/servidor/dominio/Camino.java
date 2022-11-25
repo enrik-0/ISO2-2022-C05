@@ -24,6 +24,10 @@ public class Camino {
 	private Long _distancia;
 	private String _recomendacionesEquipamiento;
 	public Vector<Etapa> _unnamed_Etapa_ = new Vector<Etapa>();
+	
+	public void verCamino(Camino aCamino) {
+		throw new UnsupportedOperationException();
+	}
 
 	public String getNombre() {
 		return this._nombre;
