@@ -9,4 +9,8 @@ public class InterfazPeregrinoEtapa {
 	public void planificarEtapa() {
 		throw new UnsupportedOperationException();
 	}
+
+	public void verCamino(Camino aCamino) {
+		throw new UnsupportedOperationException();
+	}
 }
