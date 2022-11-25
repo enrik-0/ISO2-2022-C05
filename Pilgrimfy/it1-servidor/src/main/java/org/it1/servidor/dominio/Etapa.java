@@ -21,6 +21,10 @@ public class Etapa {
 	public void verEtapa(Etapa aEtapa) {
 		throw new UnsupportedOperationException();
 	}
+	
+	public Etapa planificarEtapa() {
+		throw new UnsupportedOperationException();
+	}
 
 	public String getOrigen() {
 		return this._origen;
