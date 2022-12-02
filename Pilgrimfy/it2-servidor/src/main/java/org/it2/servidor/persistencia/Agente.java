@@ -1,8 +1,11 @@
-package Servidor_Persistencia;
+package org.it2.servidor.persistencia;
+
+import java.sql.Connection;
+import java.util.Vector;
 
 public class Agente {
 	private Agente _agente;
-	private Connention _mBD;
+	private Connection _mBD;
 	private String _uRL;
 	private String _driver;
 
