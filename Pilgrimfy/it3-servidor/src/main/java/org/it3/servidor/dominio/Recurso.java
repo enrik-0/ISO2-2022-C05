@@ -1,3 +1,5 @@
+package org.it3.servidor.dominio;
+
 public class Recurso {
 	private String _nombre;
 	private String _descripcion;
@@ -11,7 +13,7 @@ public class Recurso {
 		throw new UnsupportedOperationException();
 	}
 
-	public void obtenerLocalizacion(GoogleMaps aGps) {
+	public void obtenerLocalizacion(Google_Maps aGps) {
 		throw new UnsupportedOperationException();
 	}
 

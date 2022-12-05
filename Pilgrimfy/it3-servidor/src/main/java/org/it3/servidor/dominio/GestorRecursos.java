@@ -1,3 +1,6 @@
+package org.it3.servidor.dominio;
+
+import java.util.List;
 public class GestorRecursos {
 
 	public List<Recurso> mostrarRecursos() {
