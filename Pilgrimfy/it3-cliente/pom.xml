@@ -8,10 +8,10 @@
   </parent>
 
   <groupId>ISO2-C05</groupId>
-  <artifactId>it2-servidor</artifactId>
-  <version>0.1.0</version>
+  <artifactId>it3-cliente</artifactId>
+  <version>0.2.0</version>
 
-  <name>it2-servidor</name>
+  <name>it3-cliente</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
