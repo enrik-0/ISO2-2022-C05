@@ -22,12 +22,14 @@
   
   <artifactId>Pilgrimfy</artifactId>
               
+
   
   
   
   
   
-  <version>0.2.0</version>
+  <version>0.4.0</version>
+
               
   
   
@@ -505,11 +507,19 @@
     <module>it2-servidor</module>
               
     
+    <module>it3-cliente</module>
+          
+    
+    <module>it3-servidor</module>
+
     
     <module>it4-cliente</module>
           
     
     <module>it4-servidor</module>
+
+ 
+
       
   </modules>
           
