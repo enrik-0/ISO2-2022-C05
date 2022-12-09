@@ -4,14 +4,14 @@
   <parent>
     <artifactId>Pilgrimfy</artifactId>
     <groupId>ISO2-C05</groupId>
-    <version>0.3.0</version>
+    <version>0.4.0</version>
   </parent>
 
   <groupId>ISO2-C05</groupId>
-  <artifactId>it2-servidor</artifactId>
+  <artifactId>it4-cliente</artifactId>
   <version>0.1.0</version>
 
-  <name>it2-servidor</name>
+  <name>it4-cliente</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
