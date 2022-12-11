@@ -3,15 +3,15 @@ package Client.Autenticar.ServidorDominio;
 public class Persona {
 
 	private string usuario;
-	private string contraseña;
+	private string contrasena;
 	private string tipo;
 
 	/**
 	 * 
 	 * @param usuario
-	 * @param contraseña
+	 * @param contraseï¿½a
 	 */
-	public boolean login(string usuario, string contraseña) {
+	public boolean login(string usuario, string contrasena) {
 		// TODO - implement Persona.login
 		throw new UnsupportedOperationException();
 	}
@@ -24,8 +24,8 @@ public class Persona {
 		return this.tipo;
 	}
 
-	public string getContraseña() {
-		return this.contraseña;
+	public string getContrasena() {
+		return this.contrasena;
 	}
 
 	/**
@@ -38,10 +38,10 @@ public class Persona {
 
 	/**
 	 * 
-	 * @param contraseña
+	 * @param contraseï¿½a
 	 */
-	public void setContraseña(string contraseña) {
-		this.contraseña = contraseña;
+	public void setContrasena(string contrasena) {
+		this.contrasena = contrasena;
 	}
 
 	/**
