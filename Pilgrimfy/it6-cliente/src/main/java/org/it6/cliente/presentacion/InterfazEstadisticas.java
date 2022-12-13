@@ -13,4 +13,8 @@ public class InterfazEstadisticas {
 	public void verNumeroNegocios() {
 		throw new UnsupportedOperationException();
 	}
+	
+	public void analisisResenas() {
+		throw new UnsupportedOperationException();
+	}
 }
