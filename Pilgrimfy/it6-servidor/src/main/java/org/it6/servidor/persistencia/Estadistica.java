@@ -51,4 +51,8 @@ public class Estadistica {
 	public int verNumeroNegocios() {
 		throw new UnsupportedOperationException();
 	}
+	
+	public String[] analisisResenas() {
+		throw new UnsupportedOperationException();
+	}
 }
