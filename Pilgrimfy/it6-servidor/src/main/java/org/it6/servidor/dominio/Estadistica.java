@@ -1,6 +1,6 @@
-package org.it6.servidor.persistencia;
+package org.it6.servidor.dominio;
 
-import org.it4.servidor.dominio.Comentario
+import org.it4.servidor.dominio.Comentario;
 
 public class Estadistica {
 	private int _numPeregrinos;
