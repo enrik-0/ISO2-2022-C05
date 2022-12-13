@@ -39,4 +39,8 @@ public class Estadistica {
 	public void setResenas(String[] aResenas) {
 		this._resenas = aResenas;
 	}
+	
+	public int verUsuariosSatisfechos() {
+		throw new UnsupportedOperationException();
+	}
 }
