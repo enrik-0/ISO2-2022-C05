@@ -6,4 +6,9 @@ public class GestorEstadisticas {
 		throw new UnsupportedOperationException();
 	}
 	
+
+	public int verUsoSistema() {
+		throw new UnsupportedOperationException();
+	}
+	
 }
