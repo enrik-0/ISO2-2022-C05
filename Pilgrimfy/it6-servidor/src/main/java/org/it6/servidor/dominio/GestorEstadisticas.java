@@ -15,4 +15,8 @@ public class GestorEstadisticas {
 		throw new UnsupportedOperationException();
 	}
 	
+	public String[] analisisResenas() {
+		throw new UnsupportedOperationException();
+	}
+	
 }
