@@ -11,4 +11,8 @@ public class GestorEstadisticas {
 		throw new UnsupportedOperationException();
 	}
 	
+	public int verNumeroNegocios() {
+		throw new UnsupportedOperationException();
+	}
+	
 }
