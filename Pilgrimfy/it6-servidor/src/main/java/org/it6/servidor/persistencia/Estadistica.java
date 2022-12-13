@@ -47,4 +47,8 @@ public class Estadistica {
 	public int verUsoSistema() {
 		throw new UnsupportedOperationException();
 	}
+	
+	public int verNumeroNegocios() {
+		throw new UnsupportedOperationException();
+	}
 }
