@@ -9,4 +9,8 @@ public class InterfazEstadisticas {
 	public void verUsoSistema() {
 		throw new UnsupportedOperationException();
 	}
+	
+	public void verNumeroNegocios() {
+		throw new UnsupportedOperationException();
+	}
 }
